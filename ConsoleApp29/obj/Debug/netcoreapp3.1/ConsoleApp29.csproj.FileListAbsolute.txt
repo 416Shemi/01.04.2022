@@ -1,0 +1,5 @@
+C:\Users\Acer\Desktop\task3\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\task3\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\task3\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\task3\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.AssemblyInfo.cs
+C:\Users\Acer\Desktop\task3\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.csproj.CoreCompileInputs.cache
